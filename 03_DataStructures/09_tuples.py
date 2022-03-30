@@ -10,7 +10,7 @@ for teilnehmer in teilnehmer_tupel:
 print()
 print()
 
-# Search fpr an element
+# Search for an element
 if 'lina' in teilnehmer_tupel:
     print ('Lina ist da')
 """
